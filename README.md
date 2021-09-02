@@ -3,7 +3,7 @@ My name is Vinicius Martins, but everybody knows me how "ALBA" and I'm 20yo. I l
 
 I've never work with code, but I study a lot and I have curiosity and I have desire to learn everything.
 
-## What I learn?
+## What am I learning?
 I'm currently doing Information Systems (Bachelor) at FeMASS and I'm learning about HTML/CSS, JavaScript and MySQL besides the college.
 
 My next steps is: Start learning some JavaScript framework and PHP.
