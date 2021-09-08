@@ -7,10 +7,6 @@ I've never work with code, but I study a lot and I have curiosity and I have des
 I'm currently doing Information Systems (Bachelor) at FeMASS and I'm learning about HTML/CSS, JavaScript and MySQL besides the college.
 
 My next steps is: Start learning some JavaScript framework and PHP.
-
-## A "strange" curiosity
-
- - Nowadays I'm working at Schlumberger, in the Maintenance area (Surface Well Testing) and I've worked in the Administration at another company;
  
 <div> 
   <a href="https://instagram.com/viniciussnitram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
